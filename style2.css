@@ -1,0 +1,30 @@
+body
+{
+	background-color: #42301b;
+	text-align: left;
+	margin: 5%;
+}
+h1
+{
+	text-align: center;
+	border-style: solid;
+	border-radius: 25px;
+	
+
+}
+h1:hover
+{
+	background-color: green;
+	transition: 0.5s;
+}
+img
+{
+	border-style: solid;
+	border-color: green;
+	border-width: 10px;
+}
+img:hover
+{
+	transform: scale(1.2);
+	transition: 0.5s;
+}
